@@ -1,16 +1,14 @@
-## Hi there 👋
+## Sadanand Lowanshi
+🚀 *Turning bold ideas into beautiful, high-performance mobile apps*
 
-<!--
-**sadanand-lowanshi/sadanand-lowanshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Upwork](https://img.shields.io/badge/Top%20Rated%20Plus-Upwork-6fda44?logo=upwork&logoColor=gree&style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let’s Connect
+
+- 📧 Email: [sadanandlowanshi@gmail.com](mailto:sadanandlowanshi@gmail.com)
+- 💼 Upwork: [View Profile](https://www.upwork.com/freelancers/~0176fc9593a5dcb756)
+
+---
+
+*Thanks for stopping by! Let's build something awesome together.*
