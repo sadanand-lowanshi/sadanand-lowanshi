@@ -1,6 +1,6 @@
 ## I'm Sadanand Lowanshi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sadanand-lowanshi)
-[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white&style=for-the-badge)](https://x.com/yourusername)
+[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white&style=for-the-badge)](https://x.com/sadanand_iOS)
 
 *Turning bold ideas into beautiful, high-performance mobile apps*
 
