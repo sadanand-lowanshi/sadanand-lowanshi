@@ -33,16 +33,25 @@
 Beautifully designed Bible app offering daily verses, reading plans, and scripture in a clean, distraction-free experience.
 
 - 🛠 Tech: Kotlin, Swift, AVFoubdation, Firebase, UIKit
-- 🔗 [Download iOS App](https://apps.apple.com/app/the-bible-app-living-word/id6449713621)
-- 🔗 [Download Android App](https://play.google.com/store/apps/details?id=com.dreambuilders.theholybibleapp)
+- 🔗 [iOS App Link](https://apps.apple.com/app/the-bible-app-living-word/id6449713621)
+- 🔗 [Android App Link](https://play.google.com/store/apps/details?id=com.dreambuilders.theholybibleapp)
 
-### 2. Health Tracker App - Health Connect
+### 2. Digital Payment Solution App
+<img width="80%" src="https://github.com/sadanand-lowanshi/sadanand-lowanshi/blob/main/resources/kade-pay-app.png">
+
+App to pay for your in-person and over the phone transaction directly from your phone in Easy, Convenient, & Secure way using Kade.
+- Implement MVVM design pattern with Rxswift framework 
+- Integrate Stripe SDK to capture payment using local reader 
+- 🛠 Tech: Rxswift, Stripe, WatchApp, Tap to Pay, Swift, Kotlin
+- 🔗 [App Link](https://apps.apple.com/us/app/kade-pay/id1605804845)
+
+### 3. Health Tracker App - Health Connect
 <img width="60%" src="https://github.com/sadanand-lowanshi/sadanand-lowanshi/blob/main/health_connect.png?raw=true">
 
 A sleek iOS + watchOS app to track body weight, steps, and sleep using HealthKit.
 
 - 🛠 Tech: Swift, HealthKit, Firebase, UIKit
-- 🔗 [Download App](https://apps.apple.com/in/app/health-connect-health-tracker/id6450505957)
+- 🔗 [App Link](https://apps.apple.com/in/app/health-connect-health-tracker/id6450505957)
 
 
 ### Let’s Connect
