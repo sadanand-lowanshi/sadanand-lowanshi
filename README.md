@@ -27,15 +27,7 @@
 
 ## 📱 Featured Projects
 
-### 1. Health Tracker App - Health Connect
-<img width="60%" src="https://github.com/sadanand-lowanshi/sadanand-lowanshi/blob/main/health_connect.png?raw=true">
-
-A sleek iOS + watchOS app to track body weight, steps, and sleep using HealthKit.
-
-- 🛠 Tech: Swift, HealthKit, Firebase, UIKit
-- 🔗 [Download App](https://apps.apple.com/in/app/health-connect-health-tracker/id6450505957)
-
-### 2. Holy Bible App - 100000+ Downloads
+### 1. Holy Bible App - 100000+ Downloads
 <img width="100%" src="https://github.com/sadanand-lowanshi/sadanand-lowanshi/blob/main/bible-app.png">
 
 Beautifully designed Bible app offering daily verses, reading plans, and scripture in a clean, distraction-free experience.
@@ -43,6 +35,14 @@ Beautifully designed Bible app offering daily verses, reading plans, and scriptu
 - 🛠 Tech: Kotlin, Swift, AVFoubdation, Firebase, UIKit
 - 🔗 [Download iOS App](https://apps.apple.com/app/the-bible-app-living-word/id6449713621)
 - 🔗 [Download Android App](https://play.google.com/store/apps/details?id=com.dreambuilders.theholybibleapp)
+
+### 2. Health Tracker App - Health Connect
+<img width="60%" src="https://github.com/sadanand-lowanshi/sadanand-lowanshi/blob/main/health_connect.png?raw=true">
+
+A sleek iOS + watchOS app to track body weight, steps, and sleep using HealthKit.
+
+- 🛠 Tech: Swift, HealthKit, Firebase, UIKit
+- 🔗 [Download App](https://apps.apple.com/in/app/health-connect-health-tracker/id6450505957)
 
 
 ### Let’s Connect
